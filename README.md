@@ -1,2 +1,2 @@
 # demo
-this is demo for git and github tutorials
+this is demo for git and github tutorials by zius
